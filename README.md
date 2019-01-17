@@ -1,8 +1,8 @@
 # cs302-S2019-syllabus
 
-This repository contains the syllabus for Computer Science 302 Spring 2018. To
+This repository contains the syllabus for Computer Science 302 Spring 2019. To
 learn more about the course for which this syllabus was created, please
-visit the [Computer Science 302 Spring 2018 GitHub
+visit the [Computer Science 302 Spring 2019 GitHub
 Organization](https://github.com/Allegheny-Computer-Science-302-S2019). All of
 the LaTeX files in this repository are automatically compiled with [Travis
 CI](https://travis-ci.org/), thus ensuring that they compile correctly and,
